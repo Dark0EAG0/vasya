@@ -17,3 +17,4 @@ void main(){
         HesI[i] = (inputMa[0]*ForIn[i][in]);
     }
 }
+
