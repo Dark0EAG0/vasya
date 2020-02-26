@@ -14,9 +14,4 @@ void main(){
     }
     for (size_t i = 0; i < CountOfHiddenN; i++)
     {
-        HesI[i] = (inputMa[0]*ForIn[i][in]);
-    }
-}
-
-
-
+        HesI[i] = (inputMa[0]*ForIn[i]
